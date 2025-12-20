@@ -13,7 +13,7 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 ## ⚡ Features    
  
 - 🔍 Search weather by **city name**
-- 🌍 Auto-detect user location (via IP)
+- 🌍 Auto-detect user location (via IP) 
 - 🖼 Tkinter GUI app
 - 🌐 Flask Web App
 - 🔧 Clean modular structure
@@ -27,6 +27,7 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 ```bash
 git clone https://github.com/BALADURGAG24/python-weather-app.git
 cd python-weather-app
+
 
 
 
