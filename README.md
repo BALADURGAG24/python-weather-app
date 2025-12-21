@@ -9,7 +9,7 @@ A versatile Python Weather App that works in multiple modes:
 It fetches live weather data from **OpenWeatherMap API** and displays it in a clean, user-friendly format. 
 
 ---
-  
+   
 ## ⚡ Features    
  
 - 🔍 Search weather by **city name**
@@ -27,6 +27,7 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 ```bash
 git clone https://github.com/BALADURGAG24/python-weather-app.git
 cd python-weather-app
+
 
 
 
