@@ -28,19 +28,24 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 git clone https://github.com/BALADURGAG24/python-weather-app.git
 cd python-weather-app
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Project Strcture
+```
+Directory structure:
+└── baladurgag24-python-weather-app/
+    ├── README.md
+    ├── gui_app.py
+    ├── LICENSE
+    ├── main.py
+    ├── requirements.txt
+    ├── web_app.py
+    ├── project-screenshots/
+    ├── utils/
+    │   ├── formatter.py
+    │   └── __pycache__/
+    └── weather/
+        ├── __init__.py
+        ├── config.py
+        ├── fetcher.py
+        ├── location.py
+        └── __pycache__/
+```
