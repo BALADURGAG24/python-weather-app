@@ -27,6 +27,7 @@ It fetches live weather data from **OpenWeatherMap API** and displays it in a cl
 ```bash
 git clone https://github.com/BALADURGAG24/python-weather-app.git
 cd python-weather-app
+```
 
 Project Strcture
 ```
@@ -49,3 +50,4 @@ Directory structure:
         ├── location.py
         └── __pycache__/
 ```
+
